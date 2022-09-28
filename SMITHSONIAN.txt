@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA: SMITHSONIAN CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/smithsonianchannel.png" group-title="CANADA",CA: SMITHSONIAN CHANNEL
+http://streampro.quest:8080/13075869/8d1o4bOJxG/28186
+EXTINF:-1 tvg-id="" tvg-name="IDS: VIP SMITHSONIAN CHANNEL" tvg-logo="https://asiagrandiptv.us/logo//smithsonianchannel.png" group-title="INDONESIA",IDS: VIP SMITHSONIAN CHANNEL
+http://streampro.quest:8080/13075869/8d1o4bOJxG/236756
+#EXTINF:-1 tvg-id="" tvg-name="LA: VIP ARG SMITHSONIAN CHANNEL EN" tvg-logo="https://asiagrandiptv.us/logo/smithsonian.png" group-title="Latino  VIP",LA: VIP ARG SMITHSONIAN CHANNEL EN
+http://streampro.quest:8080/13075869/8d1o4bOJxG/220316
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP SMITHSONIAN CHANNEL EAST" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/smithsonian-channel-us.png" group-title="USA",USA: VIP SMITHSONIAN CHANNEL EAST
+http://streampro.quest:8080/13075869/8d1o4bOJxG/311258
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP SMITHSONIAN CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/smithsonianchannel.png" group-title="USA",USA: VIP SMITHSONIAN CHANNEL
+http://streampro.quest:8080/13075869/8d1o4bOJxG/3722
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP SMITHSONIAN CHANNEL WEST" tvg-logo="https://asiagrandiptv.us/logo//smithsonianwest.png" group-title="USA",USA: VIP SMITHSONIAN CHANNEL WEST
+http://streampro.quest:8080/13075869/8d1o4bOJxG/393950
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP PLUTO SMITHSONIAN CHANNEL SELECTS" tvg-logo="" group-title="USA (Local) VIP",USA: VIP PLUTO SMITHSONIAN CHANNEL SELECTS
+http://streampro.quest:8080/13075869/8d1o4bOJxG/393402
